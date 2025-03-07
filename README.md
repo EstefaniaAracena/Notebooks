@@ -1,0 +1,1 @@
+You can find some notebooks with different coding. Classification, regression and optimization pluss some EDA are available. Just contact me for feedback, comments or anything you would like to say. Enjoy!
